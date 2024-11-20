@@ -78,5 +78,9 @@ body {
 }
 
 .border-top {
-    border-color: var(--color-red) !important;
+    border-top: solid 0.5vh var(--color-red) !important;
+}
+
+#dogs {
+    width: 40vw;
 }
