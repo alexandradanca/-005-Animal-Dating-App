@@ -1,0 +1,82 @@
+@import url(./variables.css);
+
+body {
+    font-family: "Sour Gummy", sans-serif;
+}
+
+.txt-red {
+    color: var(--color-red);
+}
+
+.txt-al {
+    text-align: center;
+}
+
+.red{
+    background-color: var(--color-red);
+}
+
+.cream {
+    background-color: var(--color-cream);
+}
+
+.blue {
+    background-color: var(--color-blue);
+}
+
+.p-container {
+    height: auto;
+}
+
+.nav-link {
+    color: var(--color-red) !important;
+    border-radius: 0 !important;
+    font-weight: bold;
+    letter-spacing: 0.1vw;
+    text-transform: uppercase;
+}
+
+.nav-link:hover {
+    border-bottom: solid 0.5vh var(--color-red);
+}
+
+.border {
+    border-color: var(--color-cream) !important;
+}
+
+.card-body {
+    background-color: var(--color-cream);
+}
+
+.card {
+    border: none !important;
+}
+.shadow-sm {
+    box-shadow:  10px -10px 20px #ebc2a2,
+    -10px 10px 20px #ffe4be !important;
+}
+
+.btn-outline-secondary {
+    color: var(--color-red);
+    border-color: var(--color-red);
+}
+
+.btn-outline-secondary{
+    transition-property: all;
+    transition-duration: 0.5s;
+}
+
+.btn-outline-secondary:after, .btn-outline-secondary:hover{
+    transform:scale(1.1);
+    background-color: var(--color-red);
+    color: var(--color-cream);
+    border-color: var(--color-red);
+}
+
+.btn-downl:hover {
+    background-color: var(--color-blue);
+}
+
+.border-top {
+    border-color: var(--color-red) !important;
+}
