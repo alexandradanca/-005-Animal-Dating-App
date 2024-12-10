@@ -2,7 +2,7 @@
   <a href="https://alexandradanca.github.io/-005-Animal-Dating-App/" target="_blank">Dating for animals</a>
 </h2>
 
-<p>This is App dating for our animals. :feet::paw_prints: Let them have their own dating app too. :love_letter: </br>It was created during front-end learning journey</p>
+<p>An innovative app connecting pets and owners for companionship and shared adventures.🐾 :love_letter: </br>It was created during front-end learning journey</p>
 
 ## Built With
 - HTML
